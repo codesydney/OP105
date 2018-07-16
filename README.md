@@ -1,2 +1,2 @@
 # OP105
-How to read PDF files using Pythong
+How to read PDF files using Python
